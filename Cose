@@ -4,3 +4,4 @@ Modifica --> Commit --> push --> sync
 Se faccio una modifica nel fork posso pure averla nel progetto principale?
 
 Il viceversa è pure possibile?
+Creo un branch nel progetto principale. lo chiamo perFork. e salvo questa modifica.
