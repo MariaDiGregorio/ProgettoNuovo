@@ -4,3 +4,6 @@ Modifica --> Commit --> push --> sync
 Se faccio una modifica nel fork posso pure averla nel progetto principale?
 La modifica nella riga 4 l'ho fatta nel fork e salvata in un branch "Integrazioni". ho inviato una richiesta push al progetto principale.
 il branch è stato quindi unito e la modifica è stata salvata nel progetto principale.
+
+le modifiche apportate nel branch possono rimanere li, oppure essere integrate al branch master.
+Devo capire se le posso integrarne solo una parte.
