@@ -6,3 +6,6 @@ Se faccio una modifica nel fork posso pure averla nel progetto principale?
 Il viceversa è pure possibile?
 Creo un branch nel progetto principale. lo chiamo perFork. e salvo questa modifica.
 Ho inviato una richiesta pull al progetto fork, ho unito la richiesta. questa modifica adesso è anche nel progetto fork.
+
+é necessario creare branch per modificare progetto principale e fork o posso farlo direttamente dal master?
+
