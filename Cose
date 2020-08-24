@@ -9,3 +9,5 @@ Ho inviato una richiesta pull al progetto fork, ho unito la richiesta. questa mo
 
 é necessario creare branch per modificare progetto principale e fork o posso farlo direttamente dal master?
 
+Posso fare la modifica nel branch master --> fare commit --> push to "ProgettoFork"
+
