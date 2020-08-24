@@ -11,3 +11,7 @@ Ho inviato una richiesta pull al progetto fork, ho unito la richiesta. questa mo
 
 Posso fare la modifica nel branch master --> fare commit --> push to "ProgettoFork"
 
+posso fare il push to un branch del progetto fork?
+No, a meno che creo il branch su cui salvare la modifica.
+
+
